@@ -1,0 +1,10 @@
+.env
+*.png
+*.csv
+# Ignore virtual environments
+Lib/
+fashion-trend/
+fashion-trend/Lib/site-packages/
+*.egg-info/
+*.dist-info/
+__pycache__/
